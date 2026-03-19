@@ -1,4 +1,4 @@
-# Requirements Document
+#  Document
 
 ## Introduction
 
@@ -78,7 +78,8 @@ Ce projet est un chatbot IA simple accessible via une interface web. L'utilisate
 **User Story:** En tant que User, je veux que la conversation reste visible pendant toute ma session, afin de pouvoir relire les échanges précédents.
 
 #### Acceptance Criteria
-
+**<img width="1030" height="984" alt="image" src="https://github.com/user-attachments/assets/fdc72e73-a6a8-4a05-9b84-877043a26a88" />
+**
 1. THE App SHALL conserver l'historique de la Conversation en mémoire pendant toute la durée de la session.
 2. THE UI SHALL afficher tous les Messages de la Conversation dans l'ordre chronologique.
 3. WHEN le User recharge la page, THE App SHALL réinitialiser la Conversation et afficher uniquement le Message de bienvenue initial.
